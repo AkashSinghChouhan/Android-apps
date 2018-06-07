@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\android\Android Training project\AgeCalculator\libs\joda-time-2.9.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7b520c458572890807d143670c9b24f4de90897">
+        <dex dex="G:\android\Android Training project\AgeCalculator\app\build\intermediates\pre-dexed\debug\joda-time-2.9.9_86c101581bc4fca9617b31972328fa21ad99cf7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DEVIL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="G:\android\Android Training project\AgeCalculator\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_0c8d1522ba8ae1f1e582800434dd0c62436e1719.jar" />
+    </item>
+
+</items>

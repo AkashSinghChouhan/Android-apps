@@ -1,0 +1,7 @@
+#Fri Jun 23 20:11:59 IST 2017
+base.0=G\:\\android\\Android Training project\\AgeCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_0c8d1522ba8ae1f1e582800434dd0c62436e1719
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\android\\Android Training project\\AgeCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\joda-time-2.9.9_86c101581bc4fca9617b31972328fa21ad99cf7b\\classes.dex
+base.1=G\:\\android\\Android Training project\\AgeCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\joda-time-2.9.9_86c101581bc4fca9617b31972328fa21ad99cf7b
+file.0=G\:\\android\\Android Training project\\AgeCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_0c8d1522ba8ae1f1e582800434dd0c62436e1719\\classes.dex
